@@ -1,5 +1,6 @@
 ---
 title: Waterwise Landscape Conversion
+sidebar_position: 1
 --- 
 
 Most lawns in Utah were never designed for this climate—they require constant inputs just to survive.

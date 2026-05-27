@@ -4,32 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Land',
+    Svg: require('@site/static/img/land.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        We use ecological principles to design regenerative landscapes that support
+        biodiversity, improve soil health, and enhance ecosystem services. From individual
+        properties to large landscapes, we turn landscapes into thriving parts of the greater ecosystem.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Water',
+    Svg: require('@site/static/img/water.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We perform thorough watershed assessments to understand the unique dynamics of each system and
+        inform management and restoration strategies that work *with* the natural processes.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Built',
+    Svg: require('@site/static/img/home_and_garden.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We integrate built and native landscapes through science-based design, from individual properties to 
+        entire watersheds. Our services include ecological design, watershed assessments, and restoration 
+        planning to create resilient and thriving environments that benefit both people and nature.
       </>
     ),
   },

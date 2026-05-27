@@ -97,6 +97,7 @@ const config = {
           },
           {to: '/about', label: 'About Us', position: 'left'},
           {to: '/contact', label: 'Contact', position: 'left'},
+          {to: '/ai', label: 'AI Policy', position: 'left'},
           {
             href: 'https://github.com/jtgilbert',
             label: 'GitHub',
