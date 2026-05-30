@@ -1,5 +1,5 @@
 ---
-title: Restoration Effectiveness Monitoring
+title: 📈 Restoration Effectiveness Monitoring
 sidebar_position: 2
 ---
 
