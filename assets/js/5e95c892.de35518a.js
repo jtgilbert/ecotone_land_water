@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkecotone_land_water=self.webpackChunkecotone_land_water||[]).push([["1668"],{6569(e,r,a){a.r(r),a.d(r,{default:()=>o});var s=a(4848);a(6540);var n=a(4164),t=a(4308),c=a(8287),u=a(2831),l=a(1085);function o(e){return(0,s.jsx)(t.e3,{className:(0,n.A)(c.G.wrapper.docsPages),children:(0,s.jsx)(l.A,{children:(0,u.v)(e.route.routes)})})}}}]);
