@@ -28,7 +28,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jtgilbert', // Usually your GitHub org/user name.
-  projectName: 'ecotone-land-water', // Usually your repo name.
+  projectName: 'ecotone_land_water', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -52,7 +52,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/jtgilbert/ecotone-land-water/tree/main/',
+            'https://github.com/jtgilbert/ecotone_land_water/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -63,7 +63,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/jtgilbert/ecotone_land_water/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
