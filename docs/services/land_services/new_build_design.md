@@ -10,19 +10,19 @@ It pays to start with a plan. Avoid the pitfalls of putting in landscaping eleme
 </div>
 ---
 
-### Tier 1 - $500 - 1500
+### Tier 1 - $300 - 1500
 Tier one includes a site assessment and a basic conceptual design.
 - Site assessment to analyze soil, drainage, and microclimates of the property.
 - A basic design that includes irrigation zones informed by the assessment and guidance on plant types that are suitable for those zones.
 ---
 
-### Tier 2 - $1500 - $5000
+### Tier 2 - $1000 - $5000
 Tier two includes a site assessment and a full design informed by iterative client feedback.
 - Site assessment to analyze soil, drainage, and microclimates of the property.
 - A detailed design informed by the site assessment. This will include irrigation zones, access to a detailed plant database for the client to select plants they like the most that are suited to the different zones, and all hardscaping and functional elements. This process will be iterative, with the client providing feedback and the design updated until the clients vision is realized.
 ---
 
-### Tier 3 - $5000+
+### Tier 3 - $3000+
 Tier three adds on oversight of implementation. We will perform the site assessment, design the landscape, and work with trusted contractors to implement the design so that you don't have to worry about a thing!
 - Site assessment to analyze soil, drainage, and microclimates of the property.
 - A detailed design as described in tier 2.

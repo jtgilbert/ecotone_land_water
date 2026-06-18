@@ -12,7 +12,7 @@ The result is a landscape that uses significantly less water, requires less main
 </div>
 
 
-### Tier 1 - $500 - $1500
+### Tier 1 - $300 - $1500
 Tier one includes a site assessment and a basic conceptual design.
 - Site visit
 - Lawn water use & irrigation review
@@ -21,7 +21,7 @@ Tier one includes a site assessment and a basic conceptual design.
 - Conceptual design based on site analysis
 ---
 
-### Tier 2 - $1500 - $5000
+### Tier 2 - $1000 - $5000
 Tier two includes a site assessment and a full design informed by iterative client feedback.
 - Detailed site analysis
 - Zone-based design:
@@ -32,7 +32,7 @@ Tier two includes a site assessment and a full design informed by iterative clie
 - Phasing plan
 ---
 
-### Tier 3 - $5000 +
+### Tier 3 - $3000 +
 Tier three adds on oversight of implementation. We will perform the site assessment, design the landscape, and work with trusted contractors to implement the design so that you don't have to worry about a thing!
 - Coordination with trusted contractors for implementation
 - Design refinement on-site 
