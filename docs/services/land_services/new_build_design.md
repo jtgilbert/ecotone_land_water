@@ -3,7 +3,7 @@ title: 🏡 New Build Landscape Design
 sidebar_position: 2
 --- 
 
-It pays to start with a plan. Avoid the pitfalls of putting in landscaping elements only to have to remove and redo things later. Designs for new builds can ensure that you meet HOA requirements (e.g., no more than 50% turf), guide appropriate irrigation installation, for example where spray heads are placed and where drip line is placed, and create a unique, distinctive, and functional landscape that stands out with minimal maintence and water use. We specialize in landscapes focused on waterwise and native plants that will be naturally low maintenance and showcases the natural beauty we have in our region.
+It pays to start with a plan. Avoid the pitfalls of putting in landscaping elements only to have to remove and redo things later. Designs for new builds can ensure that you meet HOA requirements (e.g., no more than 50% turf), guide appropriate irrigation installation, for example where spray heads are placed and where drip line is placed, and create a unique, distinctive, and functional landscape that stands out with minimal maintenance and water use. We specialize in landscapes focused on waterwise and native plants that will be naturally low maintenance and showcases the natural beauty we have in our region.
 
 <div style={{ textAlign: 'center' }}>
 	<img src="/img/back_plan.jpg" alt="Backyard Plan" width="640" />
